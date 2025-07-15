@@ -1,0 +1,6 @@
+usor;Completați cu Present Simple: She __________ (to eat) breakfast every day.;eats;5
+mediu;Transformă în negativ (Prezent Simplu): They play football on Sundays. →;They don’t play football on Sundays.;15
+usor;Alege între Present Simple/Continuous: I __________ (to watch) TV now.;am watching;5
+greu;Corectează greșeala: "I am wanting an ice cream." →;I want an ice cream.;30
+mediu;Alege timpul corect: "She __________ (to study) for the exam this week.";is studying;15
+greu;Traduce în engleză (folosește timpul corect): "El lucrează la un proiect acum (work)." →;He is working on a project now.;30
